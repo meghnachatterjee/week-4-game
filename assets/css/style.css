@@ -1,0 +1,18 @@
+
+
+.crystal-collector{
+    padding:20px;
+    color : white;
+    background-color:orange;
+    text-align:center;
+    margin:auto;
+    font-size:24px;
+    font-weight:bold;
+}
+
+.game-rules{
+    padding:20px;
+    font-size:18px;
+    text-align:center;
+    margin:auto;
+}
